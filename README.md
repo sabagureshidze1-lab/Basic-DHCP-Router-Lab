@@ -4,7 +4,7 @@ Multi-subnet network design in Cisco Packet Tracer featuring inter-LAN routing a
 # DHCP & Router Configuration Lab
 
 ## 🌐 Topology View
-![Network Diagram](dhcp-lab.png)
+![Network Diagram](dhcp-lab.png.png)
 
 ## 🛠 Project Description
 In this Cisco Packet Tracer lab, I configured a network with a dedicated DHCP Server to provide dynamic IP addresses to multiple workstations.
